@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Laravel...
 
-<div>
+<div aling="center" dir="auto">
   <a href="https://github.com/patrickassuncao1">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=patrickassuncao1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickassuncao1&layout=compact&langs_count=16&theme=algolia"/>
