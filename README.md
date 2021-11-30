@@ -1,4 +1,4 @@
-### Patrick Assunção 👋
+### Patrick Assunção
 
 - 🌱 Atualmente estou aprendendo Laravel...
 
